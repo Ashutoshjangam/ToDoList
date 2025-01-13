@@ -25,13 +25,6 @@ This project is a simple Todo application with an updated user interface (UI) to
 
 ---
 
-## How to Use
-1. Clone the repository: `git clone <repository-url>`
-2. Navigate to the project directory: `cd todo-app`
-3. Open `index.html` in your browser to run the app locally.
-
----
-
 ## File Breakdown
 
 ### index.html
@@ -55,30 +48,6 @@ Implements the app's interactivity. Key functions include:
 
 ---
 
-## Customization
-Feel free to modify:
-1. **Colors**: Change the root variables in `style.css` to personalize the theme.
-2. **Fonts**: Update the font-family in the `html` rule.
-3. **Functionality**: Extend the `app.js` file to include features like task deadlines or categories.
+![Screenshot 2025-01-13 110639](https://github.com/user-attachments/assets/edf7acb8-e790-4bb6-b854-8501bade38de)
 
----
 
-## Browser Compatibility
-The app is designed to work in modern browsers like Chrome, Firefox, and Edge.
-
----
-
-## Future Improvements
-Potential upgrades include:
-- Adding a dark mode toggle.
-- Implementing drag-and-drop functionality to reorder tasks.
-- Integrating a backend for multi-user support.
-
----
-
-## License
-This project is open-source and available under the MIT License.
-
----
-
-Enjoy using the Todo App!
